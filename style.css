@@ -1,0 +1,143 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#logo{
+    font-size: 33px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+    color: rgb(38, 48, 48);
+}
+
+.first{
+    width: 100%;
+    height: 450px;
+    margin-top: -30%; 
+    
+}
+
+#first-p{
+    width: 100%;
+    height: inherit;
+}
+
+p img{
+    width: inherit;
+   
+}
+
+.new{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.new-p{
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+#new-a{
+    color: rgb(37, 27, 27);
+}
+#inner-sec{
+    height: 200px;
+    
+}
+
+.second{
+    margin-top: 45%;
+    width: 100%;
+    
+    
+}
+
+.second-div{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+.card-link{
+    color: rgb(37, 27, 27);
+    margin-left: 30%;
+}
+
+.font-style{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.card-para{
+    margin-left: 14%;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;    
+}
+
+.third{
+    margin-top: 10%;
+    width: 100%;
+   
+    
+}
+
+#carosal{
+    width: 75%;
+    margin-left: 15%;
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
+
+
+
+.fourth{
+    margin-top: 10%;
+   
+}
+
+.third-div{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+.card:hover{
+    box-shadow: 2px 2px 5px 5px rgb(220, 218, 218);
+}
+
+.card-t{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.fifth{
+    margin-top: 10%;
+   
+    
+}
+
+.fifth-div{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+
+.card-a:hover{
+    text-decoration: rgb(231, 152, 15);
+}
+
+.foot-head{
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+}
+
+.foot-li{
+    font-size: 14px;
+    color: rgb(12, 38, 29);
+    cursor: pointer;
+    font-family: 'Times New Roman', Times, serif;
+}
