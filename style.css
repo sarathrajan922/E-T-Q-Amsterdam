@@ -2,6 +2,8 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    
+    
 }
 
 #logo{
@@ -50,6 +52,7 @@ p img{
 .second{
     margin-top: 45%;
     width: 100%;
+   
     
     
 }
